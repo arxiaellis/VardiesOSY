@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "schedules": [
+    {
+      "year": 2026,
+      "revision": 1,
+      "path": "data/repo/groups-2026.json",
+      "sha256": "eac584f02b85ffcc97479df6f0a6bec7bbdb26c7739b7f638cc9628628ccf9e7",
+      "pdfPath": "data/repo/groups-2026.pdf",
+      "pdfSha256": "6ec21e1b127e15c6f9924f42685e9afcef7a92617a9844517ba83b017de1079a"
+    }
+  ]
+}
